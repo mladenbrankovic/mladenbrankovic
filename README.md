@@ -1,4 +1,6 @@
-### Hi there 👋
+### Grüezi mitenang 👋
+
+The name's Mladen and I'm coder, pseudo-linguist and flag-enthusiast from Switzerland!
 
 <!--
 **mladenbrankovic/mladenbrankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
