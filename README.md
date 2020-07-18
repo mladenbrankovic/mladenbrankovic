@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there!
+# Saluton!
 
 I'm a coder from Switzerland.
 
