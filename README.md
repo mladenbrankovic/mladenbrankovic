@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 
-I'm a a programmer apprentice from Switzerland.
+I'm a coder from Switzerland.
 
 ```ts
 class Me {
@@ -42,6 +42,6 @@ class Me {
 
 ## Stats
 
-I should probably contribute more to open-source stuff!
+I should probably contribute more to open-source stuff...
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mladenbrankovic&show_icons=true&title_color=000&icon_color=662366&text_color=555&bg_color=fff)
