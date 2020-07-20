@@ -19,22 +19,20 @@ I'm a coder from Switzerland.
 
 ```ts
 class Me {
-  about(): Info {
-    return {
-      name: 'Mladen Brankovic',
-      pronouns: 'he' || 'him',
-      work: {
-        company: 'SBB CFF FFS',
-        position: 'Application Developer Apprentice',
-      },
-      favorites: {
-        languages: ['Dart', 'TypeScript', 'JavaScript', 'Python'],
-        frameworks: ['Flutter', 'Angular', 'Vue'],
-        tools: ['Visual Studio Code'],
-      },
-      hobbies: ['Gaming', 'Worldbuildng', 'Language Learning'],
-    };
-  }
+  about = () => ({
+    name: 'Mladen Brankovic',
+    pronouns: 'he' || 'him',
+    work: {
+      company: 'SBB CFF FFS',
+      position: 'Application Developer Apprentice',
+    },
+    favorites: {
+      languages: ['Dart', 'TypeScript', 'JavaScript', 'Python'],
+      frameworks: ['Flutter', 'Angular', 'Vue'],
+      tools: ['Visual Studio Code'],
+    },
+    hobbies: ['Gaming', 'Worldbuildng', 'Language Learning'],
+  });
 }
 ```
 
