@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Saluton!
 
-I'm a coder from Switzerland.
+I'm a coder from Switzerland who also loves to travel.
 
 ```ts
 class Me {
@@ -31,7 +31,7 @@ class Me {
       frameworks: ['Flutter', 'Angular', 'Vue'],
       tools: ['Visual Studio Code'],
     },
-    hobbies: ['Gaming', 'Worldbuildng', 'Language Learning'],
+    hobbies: ['Gaming', 'Worldbuilding', 'Language Learning'],
   });
 }
 ```
