@@ -24,7 +24,7 @@ class Me {
     pronouns: 'he' || 'him',
     work: {
       company: 'SBB CFF FFS',
-      position: 'Application Developer Apprentice',
+      position: 'Software Developer Apprentice',
     },
     favorites: {
       languages: ['Dart', 'TypeScript', 'JavaScript', 'Python'],
