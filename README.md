@@ -6,7 +6,7 @@ I'm a software development apprentice and pseudo-hobby-linguist from Switzerland
 
 | ... languages                                                                                                               | ... frameworks                                                                    | ... tools                                                |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------|
-| ![TypeScript](icons/typescript.png) ![JavaScript](icons/javascript.png) ![Dart](icons/dart.png) ![Python](icons/python.png) | ![Vue](icons/vue.png) ![Angular](icons/angular.png) ![Flutter](icons/flutter.png) | ![VS Code](icons/vscode.png) ![Docker](icons/docker.png) |
+| ![TypeScript](./icons/typescript.png) ![JavaScript](./icons/javascript.png) ![Dart](./icons/dart.png) ![Python](./icons/python.png) | ![Vue](./icons/vue.png) ![Angular](./icons/angular.png) ![Flutter](./icons/flutter.png) | ![VS Code](./icons/vscode.png) ![Docker](./icons/docker.png) |
 
 ## GitHub stats
 
