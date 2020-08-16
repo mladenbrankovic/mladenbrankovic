@@ -1,50 +1,20 @@
-<!--
-**mladenbrankovic/mladenbrankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Saluton!
 
-I'm a coder from Switzerland who also loves to travel.
+I'm a software development apprentice and pseudo-hobby-linguist from Switzerland.
 
-```ts
-class Me {
-  about = () => ({
-    name: 'Mladen Brankovic',
-    pronouns: 'he' || 'him',
-    work: {
-      company: 'SBB CFF FFS',
-      position: 'Software Developer Apprentice',
-    },
-    favorites: {
-      languages: ['Dart', 'TypeScript', 'JavaScript', 'Python'],
-      frameworks: ['Flutter', 'Angular', 'Vue'],
-      tools: ['Visual Studio Code'],
-    },
-    hobbies: ['Gaming', 'Worldbuilding', 'Language Learning'],
-  });
-}
-```
+## My favourite ...
 
-<br/>
+| ... languages                                                                                                               | ... frameworks                                                                    | ... tools                                                |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------|
+| ![TypeScript](icons/typescript.png) ![JavaScript](icons/javascript.png) ![Dart](icons/dart.png) ![Python](icons/python.png) | ![Vue](icons/vue.png) ![Angular](icons/angular.png) ![Flutter](icons/flutter.png) | ![VS Code](icons/vscode.png) ![Docker](icons/docker.png) |
 
-## My GitHub Stats
+## GitHub stats
 
 I should probably contribute more to open-source stuff ...
 
 [![stats](https://github-readme-stats.vercel.app/api?username=mladenbrankovic&title_color=002366&show_icons=true&hide_title=true&icon_color=662366&text_color=555&bg_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Top Languages
+### Most used languages
 
 ... and play around with some more programming languages, too.
 
