@@ -14,6 +14,8 @@ I should probably contribute more to open-source stuff ...
 
 [![stats](https://github-readme-stats.vercel.app/api?username=mladenbrankovic&title_color=002366&show_icons=true&hide_title=true&icon_color=662366&text_color=555&bg_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mladenbrankovic&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### Most used languages
 
 ... and play around with some more programming languages, too.
