@@ -20,4 +20,4 @@ I should probably contribute more to open-source stuff ...
 
 ... and play around with some more programming languages, too.
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladenbrankovic&hide_title=true&count_private=true&hide=nix)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladenbrankovic&hide_title=true&count_private=true&exclude_repo=nixos-config)](https://github.com/anuraghazra/github-readme-stats)
